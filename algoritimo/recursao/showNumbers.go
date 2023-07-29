@@ -11,5 +11,5 @@ func showNumbers(n int) {
 }
 
 func main() {
-	showNumbers(10)
+	showNumbers(3)
 }
